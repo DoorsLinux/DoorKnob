@@ -21,7 +21,7 @@ void main() {
 | | |,x   ,   | |      \033[1mCPU Cores\033[0m: %u
 | | |/    | ==| |      
 | |    /] ,   | |      \033[1mUser Directory\033[0m: %s
-| |   [/ ()   | |      \033[1mPortage packages installed\033[0m: %i 
+| |   [/ ()   | |      \033[1mPortage packages installed\033[0m: %d 
 | |       |   | |      
 | |       |   | |      
 | |       |   | |      
